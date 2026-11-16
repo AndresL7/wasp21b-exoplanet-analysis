@@ -1,6 +1,6 @@
 # WASP-21 b: mass, radius and orbit from radial velocity and TESS photometry
 
-*Resumen (ES): análisis de punta a punta del exoplaneta WASP-21 b: periodo y masa a partir de velocidad radial (Lomb-Scargle + ajuste por mínimos cuadrados) y radio a partir de la curva de luz de TESS (BLS). Notebooks en español.*
+*Resumen (ES): análisis de punta a punta del exoplaneta WASP-21 b: periodo y masa a partir de velocidad radial (Lomb-Scargle + ajuste por mínimos cuadrados) y radio a partir de la curva de luz de TESS (BLS).*
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/wasp21b-exoplanet-analysis/blob/main/notebooks/01_radial_velocity.ipynb)
 
