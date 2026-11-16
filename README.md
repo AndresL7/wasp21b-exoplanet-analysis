@@ -39,7 +39,7 @@ Time-series analysis · periodograms (Lomb-Scargle, BLS) · nonlinear curve fitt
 
 ## Reproduce
 ```bash
-git clone https://github.com/TU_USUARIO/wasp21b-exoplanet-analysis.git
+git clone https://github.com/AndresL7/wasp21b-exoplanet-analysis.git
 cd wasp21b-exoplanet-analysis
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
